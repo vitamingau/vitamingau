@@ -1,1 +1,3 @@
-day la index
+<?php
+echo "day la index.php"
+?>
